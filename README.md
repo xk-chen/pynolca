@@ -18,5 +18,5 @@
 1. Download the release of pynolca from
   [https://github.com/xk-chen/pynolca].
 2. Unzip the file and execute: `
-$ python setup.py install --user
+$ python setup.py install
 ` in the root directory of pynolca.
